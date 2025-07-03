@@ -36,6 +36,10 @@ The dashboard is designed to:
 
 ---
 
+![image]()
+
+---
+
 ## 📂 Project Files
 
 | File Name                                   | Description                                               |
