@@ -28,7 +28,7 @@ The dashboard is designed to:
 
 ## 📊 Project Screenshots
 
-![image](Rating and Review.jpg)
+![image](Rating_and_Review.jpg)
 
 ---
 
