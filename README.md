@@ -25,7 +25,9 @@ The dashboard is designed to:
 * Microsoft Excel (Pivot Tables, Charts, Slicers, Conditional Formatting)
 
 ---
+## 📌 Project Screenshot
 
+![image]()
 
 ---
 
