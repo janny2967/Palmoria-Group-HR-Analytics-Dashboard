@@ -32,6 +32,10 @@ The dashboard is designed to:
 
 ---
 
+![image](![image](https://github.com/janny2967/Palmoria-Group-HR-Analytics-Dashboard/blob/main/DSN%20Overview.jpg?raw=true))
+
+---
+
 ## 📂 Project Files
 
 | File Name                                   | Description                                               |
