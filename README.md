@@ -36,7 +36,7 @@ The dashboard is designed to:
 
 ---
 
-![image]()
+![image](https://github.com/janny2967/Palmoria-Group-HR-Analytics-Dashboard/blob/main/Rating%20and%20Review.jpg?raw=true)
 
 ---
 
