@@ -27,7 +27,7 @@ The dashboard is designed to:
 ---
 ## 📌 Project Screenshot
 
-![image]()
+![image](https://raw.githubusercontent.com/janny2967/Palmoria-Group-HR-Analytics-Dashboard/774786355d1963da745fa8d9704e177cd44803e8/Palmoria%20Analytic%20Dashboard.jpg)
 
 ---
 
