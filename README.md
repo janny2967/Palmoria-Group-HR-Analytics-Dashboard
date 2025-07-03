@@ -26,6 +26,12 @@ The dashboard is designed to:
 
 ---
 
+## 📊 Project Screenshots
+
+![Alt Text]()
+
+---
+
 ## 📂 Project Files
 
 | File Name                                   | Description                                               |
