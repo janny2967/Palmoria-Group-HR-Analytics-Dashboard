@@ -46,9 +46,12 @@ The dashboard is designed to:
 | `README.md`                                 | Project overview and instructions                         |
 
 ---
+| --------------------------------------------------------------------------------------------------------
 
 ## 📂 Project Guide PDF
-Get Complete Project Guide PDF [Here](https://github.com/janny2967/Palmoria-Group-HR-Analytics-Dashboard/commit/8021c74bbd32513de9f3f774ac5d3f697f9f8336#diff-ef8732e4b98aed9a8df1947d9bd3072198b132e2eafdd5e38a8919276479084a)
+Get Complete Project Guide PDF [Click Here to Download](https://github.com/janny2967/Palmoria-Group-HR-Analytics-Dashboard/commit/8021c74bbd32513de9f3f774ac5d3f697f9f8336#diff-ef8732e4b98aed9a8df1947d9bd3072198b132e2eafdd5e38a8919276479084a)
+
+
 ---
 
 ## 🚀 How to Use This Project
