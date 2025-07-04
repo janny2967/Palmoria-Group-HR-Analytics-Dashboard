@@ -32,7 +32,7 @@ The dashboard is designed to:
 ---
 
 ## 📂 Project_Cleaned_Data_Set
-[Click Here to download Project Dataset](https://github.com/janny2967/Palmoria-Group-HR-Analytics-Dashboard/blob/f7909b06bcea882eb25beb9a22c501dc293a2792/Amazon%20case%20study%20set.xlsx)
+[Click Here to download Project Dataset](https://github.com/janny2967/Palmoria-Group-HR-Analytics-Dashboard/blob/4f5bf7c33677b6930d66543782fccf7cdce2066c/Palmoria_HR_Analytics_Cleaned.xlsx)
 
 
 ---
